@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/blackary/cookiecutter-streamlit-component/",
+  "commit": "c972054b7b0890a1aa1c02e792bedc71c525ea87",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Kevin Ongko",
+      "author_email": " ",
+      "project_name": "Streamlit TailwindCSS",
+      "package_name": "streamlit-tailwind",
+      "import_name": "streamlit_tailwind",
+      "description": "A streamlit component that allows the addition of custom HTML with Tailwind classes",
+      "deployment_via_github_actions": "y",
+      "working_with_dataframes": "n",
+      "open_source_license": "MIT license",
+      "_template": "https://github.com/blackary/cookiecutter-streamlit-component/"
+    }
+  },
+  "directory": null
+}
